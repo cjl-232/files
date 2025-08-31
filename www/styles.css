@@ -1,0 +1,4 @@
+.card, .card-body {
+  overflow: visible !important;
+  position: static !important;
+}
