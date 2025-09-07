@@ -1,0 +1,27 @@
+html {
+  height: max-content !important;
+}
+
+.data-entry-skills-accordion .accordion-body {
+  padding-top: 0;
+}
+
+.profile-form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1em;
+}
+
+.profile-form .accordion {
+  width: 100%;
+  max-width: 50rem;
+}
+
+.profile-form .btn {
+  width: fit-content;
+}
+
+.card, .card-body {
+  overflow: visible !important;
+  position: static !important;
+}
